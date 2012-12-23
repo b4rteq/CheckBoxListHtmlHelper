@@ -1,0 +1,13 @@
+﻿.check-box-list-span-wrapper {
+    width: 150px;
+    float: left;
+    margin-left: 20px;
+}
+
+.check-box-list-wrapper{
+    min-width: 170px;
+}
+
+.width {
+    width: 160px;
+}
